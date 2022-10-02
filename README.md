@@ -1,2 +1,2 @@
 # ubPython
-My own package
+Package by uuboyscy
